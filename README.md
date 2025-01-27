@@ -21,3 +21,10 @@ This project is a web application built using Flask, Flask-Login, Flask-SocketIO
 - **JSON**: Used for data storage (users, profiles, chats, posts)
   
 ## DEMO
+https://github.com/user-attachments/assets/e9692891-dfc2-4c5e-bebf-2803f1cc5e40
+
+https://github.com/user-attachments/assets/01cfbf53-efc6-47d1-bbd8-b40fe5f7c1ec
+
+
+
+https://github.com/user-attachments/assets/271e0ce9-52f0-48c2-a411-997f9c65ce54
