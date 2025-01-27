@@ -19,3 +19,5 @@ This project is a web application built using Flask, Flask-Login, Flask-SocketIO
 - **OpenAI GPT-4**: For generating responses to user queries
 - **Web**: HTML, CSS, JavaScript (for frontend)
 - **JSON**: Used for data storage (users, profiles, chats, posts)
+  
+## DEMO
